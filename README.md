@@ -1,2 +1,2 @@
-# types
- Useful Typescript Types!
+# react-types
+ Useful React Typescript Types!
