@@ -4,6 +4,8 @@ import OnKeyDown from './onKeyDown';
 import EventFunction from './eventFunction';
 import OnChange from './onChange';
 import OnSubmit from './onSubmit';
+import Colors from './colors';
+import Image from './Image';
 
 export type {
     Href,
@@ -12,4 +14,6 @@ export type {
     EventFunction,
     OnChange,
     OnSubmit,
+    Colors,
+    Image,
 }
