@@ -7,6 +7,7 @@ import OnSubmit from './onSubmit';
 import Colors from './colors';
 import Image from './Image';
 import ObjectAtLeastOne from './objectAtLeastOne';
+import ConditionalProps from './conditionalProps';
 
 export type {
     Href,
@@ -18,4 +19,5 @@ export type {
     Colors,
     Image,
     ObjectAtLeastOne,
+    ConditionalProps,
 }
