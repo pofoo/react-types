@@ -8,6 +8,7 @@ import Colors from './colors';
 import Image from './Image';
 import ObjectAtLeastOne from './objectAtLeastOne';
 import ConditionalProps from './conditionalProps';
+import TapEvent from './tapEvent';
 
 export type {
     Href,
@@ -20,4 +21,5 @@ export type {
     Image,
     ObjectAtLeastOne,
     ConditionalProps,
+    TapEvent,
 }
