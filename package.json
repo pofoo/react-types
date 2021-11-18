@@ -10,5 +10,10 @@
   "author": "pofo",
   "dependencies": {
     "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "@types/react": "^17.0.35",
+    "typescript": "^4.5.2"
   }
 }
