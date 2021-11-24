@@ -4,11 +4,12 @@ import OnKeyDown from './onKeyDown';
 import EventFunction from './eventFunction';
 import OnChange from './onChange';
 import OnSubmit from './onSubmit';
-import Colors from './colors';
+import OnInput from './onInput';
+import { Colors, BackgroundColors } from './colors';
 import Image from './Image';
 import ObjectAtLeastOne from './objectAtLeastOne';
 import ConditionalProps from './conditionalProps';
-import TapEvent from './tapEvent';
+import { ReactTapEvent, TapEvent } from './tap-event';
 
 export type {
     Href,
@@ -17,9 +18,12 @@ export type {
     EventFunction,
     OnChange,
     OnSubmit,
+    OnInput,
     Colors,
+    BackgroundColors,
     Image,
     ObjectAtLeastOne,
     ConditionalProps,
     TapEvent,
+    ReactTapEvent,
 }
